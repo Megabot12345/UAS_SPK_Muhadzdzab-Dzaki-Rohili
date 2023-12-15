@@ -1,0 +1,10 @@
+brand;ram;cpu;gpu;battery;harga;ukuran_layar
+Acer;8GB;Intel Core i5-Gen12;NVIDIA GeForce RTX 3050;50Whr;Rp15.000.000;15,6 inci
+Asus;16GB;AMD Ryzen 7;NVIDIA GeForce RTX 3060;67Whr;Rp18.000.000;16 inci
+Dell;12GB;Intel Core i7-Gen12;NVIDIA GeForce RTX 3070;73Whr;Rp20.000.000;17,3 inci
+HP;16GB;Intel Core i9-Gen12;NVIDIA GeForce RTX 3080;80Whr;Rp25.000.000;18,4 inci
+Lenovo;8GB;AMD Ryzen 5 ;NVIDIA GeForce RTX 3050 ;45Whr;Rp10.000.000;14 inci
+MSI;12GB;Intel Core i7-Gen12;NVIDIA GeForce RTX 3060;60Whr;Rp17.000.000;15,6 inci
+Razer;16GB;Intel Core i9-Gen12;NVIDIA GeForce RTX 3080;90Whr;Rp30.000.000;17,3 inci
+Samsung;16GB;Intel Core i5-Gen12;NVIDIA GeForce RTX 3050;55Whr;Rp12.000.000;15,6 inci
+Xiaomi;12GB;AMD Ryzen 7;NVIDIA GeForce RTX 3050;40Whr;Rp13.000.000;14 inci
